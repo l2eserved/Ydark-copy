@@ -1,0 +1,19 @@
+NoVirusThanks Kernel-Mode Driver Loader
+http://www.novirusthanks.org/
+
+CHANGELOG
+
+v1.2.0.0 - 13-01-2016
+
++ Improved main setup script
+
+
+v1.1.0.0 - 25-01-2015
+
++ Added support for file drag & drop
+
+
+v1.0.0.0 - 01-08-2014
+
++ Initial release
+
